@@ -18,5 +18,8 @@ This project is a simple project on java using intelliJ IDEA Community.
 - ## Documentation
 https://docs.google.com/document/d/1TfHUB7Vpght8s2Da7I6F1OYIwEwrBuycBQOLaorP5GU/edit
 
+- ## Project Video
+- https://screenrec.com/share/SW7uP2GN5r
+
 ## Report
 https://drive.google.com/file/d/1yd8spjrj5TWz_xEV2H4igj36--L-7uSS/view?usp=drive_link
